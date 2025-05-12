@@ -116,3 +116,5 @@ Struct with correct UID field
 Coin field lint warning
 Would you like to see how to use Balance<SUI> instead of Coin<SUI> for more efficiency?
 
+
+PackageID: 0x043d49058adf042d5c5437f436b6421b5da59ee7bcd0dc4c8176cbd01211c733     
